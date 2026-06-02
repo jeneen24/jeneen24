@@ -1,67 +1,60 @@
-# Hi there 👋, I'm Jeneen Isleem
+<h1 align="center">Hi, I'm Jeneen 👋</h1>
 
-🎓 Data Science & AI Graduate (2026) from The Hashemite University  
-📍 Amman, Jordan  
-💡 Passionate about Artificial Intelligence, Machine Learning, and Data Engineering
-
----
-
-## 🚀 About Me
-
-I enjoy turning data into meaningful insights and building intelligent systems that solve real-world problems.
-
-🔹 Interested in Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI  
-🔹 Experienced with Python, SQL, TensorFlow, and PyTorch  
-🔹 Love working on AI-powered applications and data-driven solutions  
-🔹 Always exploring new technologies and research in AI
+<p align="center">
+  Data Scientist • AI Enthusiast • Problem Solver
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Who Am I?
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-green?style=for-the-badge)
+I'm a Data Science & AI graduate who enjoys turning complex problems into intelligent solutions.
 
----
+My interests range from Machine Learning and Data Engineering to NLP, Computer Vision, and Generative AI. Whether it's building recommendation systems, exploring LLMs, or designing AI-powered applications, I enjoy creating technology that has a real impact.
 
-## 🌟 Featured Projects
-
-### ✈️ SAFIR
-**Smart Aviation Framework for Intelligent Response**
-
-An AI-powered aviation safety system that:
-- Detects flight risks and emergency situations
-- Provides real-time recommendations
-- Supports autonomous emergency responses
-- Optimizes fuel consumption and flight efficiency
-
-### 🤖 TeachMe AI
-Smart classroom assistant developed during my Data Engineering Internship.
-
-- AI-powered learning assistance
-- Real-time analytics
-- Intelligent feedback and recommendations
+Currently, I'm focused on expanding my knowledge in:
+- 🤖 Artificial Intelligence
+- 🧠 Deep Learning
+- 💬 Natural Language Processing
+- 📊 Data Engineering
+- ✈️ AI for Aviation & Safety Systems
 
 ---
 
+### 🛠️ Technologies I Work With
 
-## 🌱 Currently Learning
+```python
+skills = {
+    "Languages": ["Python", "SQL"],
+    "AI/ML": ["Scikit-Learn", "TensorFlow", "PyTorch"],
+    "Data": ["Pandas", "NumPy", "Power BI"],
+    "Interests": [
+        "Machine Learning",
+        "Generative AI",
+        "NLP",
+        "Computer Vision",
+        "Data Engineering"
+    ]
+}
 
-- Large Language Models (LLMs)
-- RAG Systems
-- MLOps
-- Advanced Data Engineering
-- AI Agents
 
----
+🌟 A Few Things About Me :)
+✨ Built an AI-powered aviation safety framework (SAFIR)
+✨ Worked on TeachMe AI, a smart classroom assistant system
+✨ Love transforming raw data into actionable insights
+✨ Always learning something new in AI
+✨ Coffee + Python = Productivity
 
-## ☕ Fun Facts
 
-- I enjoy building AI solutions for real-world challenges.
-- I can spend hours improving machine learning models.
-- Aviation AI is one of my favorite research areas.
-- I believe data tells stories—AI helps us understand them.
+📈 Current Goals
+Building more end-to-end AI projects
+Learning MLOps and AI Agents
+Exploring RAG and LLM applications
+Contributing to open-source project
 
-📫 Reach me at: **jeneenisleem@gmail.com**
+
+💭 My Favorite Quote
+"The best way to predict the future is to create it."
+
+📫 Let's Connect
+📧 jeneenisleem@gmail.com
