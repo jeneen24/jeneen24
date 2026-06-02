@@ -36,7 +36,7 @@ skills = {
         "Data Engineering"
     ]
 }
-
+```
 
 🌟 A Few Things About Me :)
 ✨ Built an AI-powered aviation safety framework (SAFIR)
