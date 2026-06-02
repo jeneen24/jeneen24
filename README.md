@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jeneen 👋</h1>
 
 <p align="center">
-  Data Scientist • AI Enthusiast • Problem Solver
+  Data Scientist • AI Engineer • Problem Solver
 </p>
 
 ---
@@ -17,7 +17,7 @@ Currently, I'm focused on expanding my knowledge in:
 - 🧠 Deep Learning
 - 💬 Natural Language Processing
 - 📊 Data Engineering
-- ✈️ AI for Aviation & Safety Systems
+- 🛠️ Automation Tools 
 
 ---
 
