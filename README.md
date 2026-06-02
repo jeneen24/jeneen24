@@ -37,24 +37,37 @@ skills = {
     ]
 }
 ```
+---
 
 🌟 A Few Things About Me :)
+
 ✨ Built an AI-powered aviation safety framework (SAFIR)
+
 ✨ Worked on TeachMe AI, a smart classroom assistant system
+
 ✨ Love transforming raw data into actionable insights
+
 ✨ Always learning something new in AI
+
 ✨ Coffee + Python = Productivity
 
-
+---
 📈 Current Goals
+
 Building more end-to-end AI projects
+
 Learning MLOps and AI Agents
+
 Exploring RAG and LLM applications
+
 Contributing to open-source project
 
+---
 
 💭 My Favorite Quote
-"The best way to predict the future is to create it."
 
-📫 Let's Connect
+"The best way to predict the future is to create it."
+---
+📫 Let's Connect :)
+
 📧 jeneenisleem@gmail.com
